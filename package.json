@@ -4,7 +4,7 @@
   "description": "online poker game",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently \"npm run client\" \"npm run server\"",
+    "start": "npm run build && npm run start",
     "client": "cd client && npm run serve",
     "server": "cd server && npm start",
     "test": "cd server && npm test"
