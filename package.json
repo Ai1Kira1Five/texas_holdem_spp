@@ -4,7 +4,7 @@
   "description": "online poker game",
   "main": "index.js",
   "scripts": {
-    "start": "npm run build && npm run start",
+    "start": "npm run serve && npm run client",
     "client": "cd client && npm run serve",
     "server": "cd server && npm start",
     "test": "cd server && npm test"
