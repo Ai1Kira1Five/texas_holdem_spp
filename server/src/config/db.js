@@ -5,11 +5,9 @@ require('dotenv').config();
 const {
   DB_USER,
   DB_PASS,
-  DB_HOST,
-  DB_COLLECTION,
+  MONGODB_URI,
 } = process.env;
 
 module.exports = {
-  url: `mongodb://${DB_USER}:${DB_PASS}@${DB_HOST}/` +
-  `${DB_COLLECTION}?retryWrites=true`,
+  url: `${MONGODB_URI}?retryWrites=true`,
 };
