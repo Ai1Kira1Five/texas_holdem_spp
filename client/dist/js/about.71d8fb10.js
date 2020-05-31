@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(e,t,a){"use strict";a.r(t);var s=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},n=[function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"about"},[a("p",[e._v("This is a Texas Hold'em Not Limit cashgame. There's a maximun of 6 players per table.")])])}],i=a("2877"),l={},o=Object(i["a"])(l,s,n,!1,null,null,null);o.options.__file="About.vue";t["default"]=o.exports}}]);
+//# sourceMappingURL=about.71d8fb10.js.map
