@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bastglts/texas-holdem.git"
+    "url": "git+https://github.com/Ai1Kira1Five/texas_holdem_spp"
   },
-  "author": "Bastien Gili-tos",
+  "author": "Ururus",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bastglts/texas-holdem/issues"
+    "url": "https://github.com/Ai1Kira1Five/texas_holdem_spp/issues"
   },
-  "homepage": "https://github.com/bastglts/texas-holdem#readme",
+  "homepage": "https://github.com/Ai1Kira1Five/texas_holdem_spps#readme",
   "dependencies": {
     "ramda": "^0.26.1"
   },
